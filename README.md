@@ -41,3 +41,16 @@ The second link type is called a _reference link_, it is actually a reference to
 How do I [find][google] information on the Internet?
 
 [google]: www.google.com
+
+## Images
+The syntax to create images in Markdown is nearly the same as to create links. The diference between links and images is that images are prefaced with an exclamation point ( ! ).
+
+The first image style is called an _inline image link_. To create an inline image link, enter an exclamation point ( ! ), wrap the **alt** text in brackets ( [ ] ), and then wrap the link in parenthesis ( ( ) ). (**Alt** text is a phrase or sentence that describes the image for the visually impaired.)
+
+![A representation of Megaman](https://octodex.github.com/images/megacat-2.png)
+
+The second image style called a _reference image_, it is actually a reference to another place in the document:
+
+![The first Megaman][First Megaman]
+
+[First Megaman]: https://octodex.github.com/images/megacat.jpg
