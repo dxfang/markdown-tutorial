@@ -54,3 +54,20 @@ The second image style called a _reference image_, it is actually a reference to
 ![The first Megaman][First Megaman]
 
 [First Megaman]: https://octodex.github.com/images/megacat.jpg
+
+## Blockquotes
+To create a block quote, you can preface a line with the "greater than" caret ( > ):
+
+>"With great power comes great responsibility. -- Lu Xun"
+
+You can also place a caret sign on each line of the quote. This is particularly useful if your quote spans multiple paragraphs. Notice that even blank lines must contain the caret sign, this ensures that the entire blockquote is grouped together:
+>
+>"I agree. -- Su Dong Bo"
+>
+>"+1. -- Lee Bai"
+>
+>"I don't remember I have said such thing. -- Lu Xun"
+
+Block quotes can contain other Markdown elements, such as italics, images, or links:
+
+>"I'm **Lovin'** it!"
