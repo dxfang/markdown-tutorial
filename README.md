@@ -58,16 +58,43 @@ The second image style called a _reference image_, it is actually a reference to
 ## Blockquotes
 To create a block quote, you can preface a line with the "greater than" caret ( > ):
 
->"With great power comes great responsibility. -- Lu Xun"
+> "With great power comes great responsibility. -- Lu Xun"
 
 You can also place a caret sign on each line of the quote. This is particularly useful if your quote spans multiple paragraphs. Notice that even blank lines must contain the caret sign, this ensures that the entire blockquote is grouped together:
 >
->"I agree. -- Su Dong Bo"
+> "I agree. -- Su Dong Bo"
 >
->"+1. -- Lee Bai"
+> "+1. -- Lee Bai"
 >
->"I don't remember I have said such thing. -- Lu Xun"
+> "I don't remember I have said such thing. -- Lu Xun"
 
 Block quotes can contain other Markdown elements, such as italics, images, or links:
 
->"I'm **Lovin'** it!"
+> "I'm **Lovin'** it!"
+
+## Lists
+To create an unordered list, you can preface each item in the list with an asterisk ( * ):
+
+* Milk
+* Eggs
+* Salmon
+* Butter
+
+To create an ordered list, you can preface each item in the list with numbers, instead of asterisks:
+
+1. Pizza
+2. Hot Dog
+3. Pasta
+4. Burger
+
+To nest one list within another, you can indent each asterisk _two space more_ than the preceding item:
+
+* iOS Phones
+  * iPhone X
+  * iPhone 8
+  * iPhone 7
+* Android Phones
+  * Huawei Mate10
+  * LG G7
+  * Sony XZ
+ 
