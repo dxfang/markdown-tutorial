@@ -98,3 +98,20 @@ To nest one list within another, you can indent each asterisk _two space more_ t
   * LG G7
   * Sony XZ
  
+## Paragraphs
+From previous section, we learn how to break paragraphs by inserting a new line, this method is known as _hard break_; there is another method to break paragraphs without breaking the togetherness, which is _soft break_:
+
+Remember me  
+Though I have to say goodbye  
+Remember me  
+Don't let it make you cry  
+For even if I'm far away I hold you in my heart  
+I sing a secret song to you each night we are apart
+
+Remember me  
+Though I have to travel far  
+Remember me  
+Each time you hear a sad guitar  
+Know that I'm with you the only way that I can be  
+Until you're in my arms again  
+Remember me
